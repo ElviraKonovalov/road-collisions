@@ -1,5 +1,6 @@
 # soen471-bigData
 
+## Abstract
 The purpose of this study is to analyze vehicle collisions data using supervised machine learning techniques. Specifically, to identify the features that contribute most to road collisions and to compare the results of a decision tree and a neural network. Our project addresses the following research questions:
 
 1. Which features (location, date, and time of the accident, driver’s conditions, etc.) are most significant in determining the severity and outcome of an accident? Or, which features characterize road collisions?
