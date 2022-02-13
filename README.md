@@ -7,7 +7,7 @@ The purpose of this study is to analyze vehicle collisions data using supervised
 2. Can one predict the outcome of an accident by analyzing the attributes of an accident?
 3. Which machine learning technique predicts best the outcome and severity of a vehicle collision accident?
 
-Our team investigates these questions using the “Motor Vehicle Collisions involving Killed or Seriously Injured Persons” dataset which includes all traffic collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020 in the city of Toronto (https://open.toronto.ca/dataset/motor-vehicle-collisions-involving-killed-or-seriously-injured-persons/). The dataset consists of 16,861 motor vehicle collisions and is composed of 50+ numerical and categorical features (many will be removed and/or pre-processed beforehand).
+Our team investigates these questions using the “Motor Vehicle Collisions involving Killed or Seriously Injured Persons” dataset which includes all traffic collisions events where a person was either Killed or Seriously Injured (KSI) from 2006 – 2020 in the city of Toronto (https://open.toronto.ca/dataset/motor-vehicle-collisions-involving-killed-or-seriously-injured-persons/). The dataset consists of 16,861 motor vehicle collisions and is composed of 50+ numerical and categorical features (many will be removed and/or pre-processed beforehand).<br>
 These data features include:
 1. information about location, date and time of the accident
 2. information about road and weather conditions (visibility, light, etc.) during the time of the accident
