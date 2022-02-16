@@ -1,6 +1,5 @@
 # Insight into the nature of road collisions
-## SOEN-471 Big Data Analytics - Group Project Team 5
-### Winter 2022
+## SOEN-471 Big Data Analytics - Group Project Team 5 - Winter 2022
 
 ## Abstract
 Injuries caused by road collisions are the leading cause of death among children and young adults in Canada [1]. Hence, it is important to get more insight into these events and find patterns to improve road safety.
