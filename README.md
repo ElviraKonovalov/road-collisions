@@ -17,7 +17,11 @@ These **data features include**:
 3. Description of the driver involved (age, sex, etc.), driver’s driving conditions (speed, alcohol, disability, etc.) and severity of injury
 4. Other information about the event (vehicle type, vehicle manoeuvrer, etc.)
 
-The study analyzes the data using **two machine learning techniques**: a **decision tree** and a **neural network**. These two methods were chosen as they handle data very differently, and it is interesting to compare their performances and interpret the results from them. Before applying the data to the machine learning models, our team will clean and pre-process the data. That is, handle any missing values and encoding as well as remove redundant and irrelevant features.
+The study analyzes the data using **two machine learning techniques**: a **decision tree** and a **neural network**. 
+
+We have chosen those two techniques because of their ability to deconstruct problems piece-by-piece rather than finding a complex boundary. These two methods were chosen as they handle data very differently, and it is interesting to compare their performances and interpret the results from them. Tree-based methods split the feature space along the various features in order to optimize the gain of information. On the other hand, with neural networks, each neuron watches over a specific feature space and activates once the input falls into that space. Neural networks have a probabilistic view of the solution, however decision trees are more deterministic.
+
+Before applying the data to the machine learning models, our team will clean and pre-process the data. That is, handle any missing values and encoding as well as remove redundant and irrelevant features.
 Using a decision tree or a forest of trees, our team evaluates the importance of features (`feature_importance_ attribute`) in the data and extracts the most discriminating features to address the first question in our research. Our models will be evaluated on testing data and potentially on a similar Montreal dataset to conclude whether one can predict the outcome of an accident based on the accident’s characteristics. The results will be analyzed using various metrics. 
 
 ### References
