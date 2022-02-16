@@ -18,3 +18,6 @@ These **data features include**:
 
 The study analyzes the data using **two machine learning techniques**: a **decision tree** and a **neural network**. These two methods were chosen as they handle data very differently, and it is interesting to compare their performances and interpret the results from them. Before applying the data to the machine learning models, our team will cleans and pre-processes the data. That is, handles any missing values and encoding as well as removes redundant and irrelevant features.
 Using a decision tree or a forest of trees, our team evaluates the importance of features (`feature_importance_ attribute`) in the data and extracts the most discriminating features to address the first question in our research. Our models will be evaluated on testing data and potentially on a similar Montreal dataset, to conclude whether one can predict the outcome of an accident based on the accident’s characteristics. The results will be analyzed using various metrics. 
+
+### References
+[1] Fridman, L., Fraser-Thomas, J.L., Pike, I. et al. Childhood road traffic injuries in Canada – a provincial comparison of transport injury rates over time. BMC Public Health 18, 1348 (2018). https://doi.org/10.1186/s12889-018-6269-9
