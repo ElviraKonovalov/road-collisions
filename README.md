@@ -10,7 +10,7 @@ Our project addresses the following **research questions**:
 2. Can one predict the outcome of an accident by analyzing the attributes of an accident?
 3. Which machine learning technique predicts best the outcome and severity of a vehicle collision accident?
 
-Our team investigates these questions using the **“Motor Vehicle Collisions” dataset** containing traffic collisions events from 2006 – 2020 in the city of Toronto (https://open.toronto.ca/dataset/motor-vehicle-collisions-involving-killed-or-seriously-injured-persons/). The dataset consists of 16,861 motor vehicle collisions and is composed of 50+ numerical and categorical features (many will be removed and/or pre-processed beforehand).<br><br>
+Our team investigates these questions using the **“Motor Vehicle Collisions” dataset** containing traffic collisions events from 2006 – 2020 in the city of Toronto (https://open.toronto.ca/dataset/motor-vehicle-collisions-involving-killed-or-seriously-injured-persons/). The dataset consists of **16,861** motor vehicle collisions and is composed of 50+ **numerical and categorical features** (many will be removed and/or pre-processed beforehand).<br><br>
 These **data features include**:
 1. Information about location, date and time of the accident
 2. Information about road and weather conditions (visibility, light, etc.) during the time of the accident
