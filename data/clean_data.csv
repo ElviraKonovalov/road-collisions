@@ -7963,6 +7963,8 @@
 16601,0,1,0,1,0,2,0,0,19,19,East,30 to 34,"Dark, artificial",Mid-Block,Going Ahead,0,1,1,Dry,0,Major Arterial,0,No Control,0,0,Clear
 16604,0,1,0,1,0,11,0,0,26,9,South,55 to 59,Daylight,Intersection,Turning Right,0,0,1,Dry,0,Major Arterial,0,Passive Control,0,0,Clear
 16610,0,1,0,0,0,11,0,0,26,10,East,25 to 29,Daylight,Mid-Block,Going Ahead,0,0,1,Dry,0,Major Arterial,0,No Control,0,1,Clear
+16611,0,1,0,1,0,11,0,0,123,2,East,35 to 39,"Dark, artificial",Mid-Block,Going Ahead,0,0,0,Dry,0,Major Arterial,1,No Control,0,0,Clear
+16612,0,1,0,1,0,11,0,0,123,2,East,45 to 49,"Dark, artificial",Mid-Block,Going Ahead,0,0,0,Dry,0,Major Arterial,1,No Control,0,0,Clear
 16613,1,1,0,1,0,11,0,0,42,12,North,15 to 19,Daylight,Intersection,Going Ahead,0,1,0,Dry,0,Major Arterial,0,Passive Control,0,0,Clear
 16616,1,1,0,1,0,11,0,0,42,12,South,40 to 44,Daylight,Intersection,Turning Left,0,1,0,Dry,0,Major Arterial,0,Passive Control,0,0,Clear
 16618,0,0,0,1,1,11,0,0,77,16,East,25 to 29,Daylight,Intersection,Going Ahead,0,0,0,Dry,0,Minor Arterial,0,Passive Control,0,0,Clear
